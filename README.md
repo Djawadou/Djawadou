@@ -36,3 +36,9 @@ Je recherche un poste de **chargé d'études économiques / statistiques**, **da
 - **Économie** : économie du développement, politiques agricoles et alimentaires, économétrie
 - **Data** : traitement et nettoyage de données, analyse statistique, machine learning, deep learning, visualisation
 - **Outils** : Python · Stata · Excel · Streamlit · Git / GitHub
+
+---
+
+### 📫 Me contacter
+
+- ✉️ Email : [djobodjawad@gmail.com](mailto:djobodjawad@gmail.com)
