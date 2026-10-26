@@ -1,16 +1,38 @@
-## Hi there 👋
+# Bonjour, je suis Djawad 👋
 
-<!--
-**Djawadou/Djawadou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Économiste du développement agricole et alimentaire · Analyse de données (Python, Stata)**
+📍 Montpellier, France · Ouvert aux opportunités en France, au Canada et à l'international
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 En bref
+
+Jeune diplômé du **Master Économie du développement agricole (EcoDeVa)** de l'Université de Montpellier, co-accrédité par l'Institut Agro Montpellier, j'allie l'**analyse économique des systèmes agricoles et alimentaires** à la **science des données**.
+
+Je recherche un poste de **chargé d'études économiques / statistiques**, **data analyst** ou **chargé de suivi-évaluation**, dans l'agriculture, l'agroalimentaire, l'environnement, le développement ou le secteur public.
+
+---
+
+### 🎓 Formation
+
+- **Master EcoDeVa** – Université de Montpellier & Institut Agro Montpellier *(2022 – 2025)*
+- **DU Big Data, Data Sciences et Analyse des Risques sous Python** – Université de Montpellier
+
+---
+
+### 🔬 Projets phares
+
+| Projet | Thème | Outils |
+|---|---|---|
+| **Restauration collective et loi EGAlim** *(mémoire de master)* | Mise en œuvre de la loi EGAlim dans la restauration collective du PAT de Forez-Est | Stata, Excel |
+| **Projet Data – Assurance Assistance Automobile** *(projet d'équipe)* | Facteurs de la durée de traitement des dossiers d'assistance et outil d'estimation de cette durée | Python, machine learning, deep learning, Streamlit |
+
+➡️ *Détails et code dans mes dépôts ci-dessous.*
+
+---
+
+### 🛠️ Compétences
+
+**Économie** : économie du développement, politiques agricoles et alimentaires, économétrie
+**Data** : traitement et nettoyage de données, analyse statistique, machine learning, deep learning, visualisation
+**Outils** : Python · Stata · Excel · Streamlit · Git / GitHub
