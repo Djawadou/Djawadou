@@ -33,6 +33,6 @@ Je recherche un poste de **chargé d'études économiques / statistiques**, **da
 
 ### 🛠️ Compétences
 
-**Économie** : économie du développement, politiques agricoles et alimentaires, économétrie
-**Data** : traitement et nettoyage de données, analyse statistique, machine learning, deep learning, visualisation
-**Outils** : Python · Stata · Excel · Streamlit · Git / GitHub
+- **Économie** : économie du développement, politiques agricoles et alimentaires, économétrie
+- **Data** : traitement et nettoyage de données, analyse statistique, machine learning, deep learning, visualisation
+- **Outils** : Python · Stata · Excel · Streamlit · Git / GitHub
