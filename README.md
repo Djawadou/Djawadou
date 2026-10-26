@@ -25,7 +25,7 @@ Je recherche un poste de **chargé d'études économiques / statistiques**, **da
 | Projet | Thème | Outils |
 |---|---|---|
 | **Restauration collective et loi EGAlim** *(mémoire de master)* | Mise en œuvre de la loi EGAlim dans la restauration collective du PAT de Forez-Est | Stata, Excel |
-| **Projet Data – Assurance Assistance Automobile** *(projet d'équipe)* | Facteurs de la durée de traitement des dossiers d'assistance et outil d'estimation de cette durée | Python, machine learning, deep learning, Streamlit |
+| [**Projet Data – Assurance Assistance Automobile**](https://github.com/Djawadou/projet-data-assurance-auto) *(projet d'équipe)* | Facteurs de la durée de traitement des dossiers d'assistance et outil d'estimation de cette durée | Python, machine learning, deep learning, Streamlit |
 
 ➡️ *Détails et code dans mes dépôts ci-dessous.*
 
