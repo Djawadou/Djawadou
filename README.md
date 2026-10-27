@@ -1,4 +1,4 @@
-# Bonjour, je suis Djawad 👋
+# Bonjour, je suis Djawadou 👋
 
 **Économiste du développement agricole et alimentaire · Analyse de données (Python, Stata)**
 📍 Montpellier, France · Ouvert aux opportunités en France, au Canada et à l'international
